@@ -52,7 +52,7 @@ double arithmetic(char op, double op1, double op2){
 	}
 	else
 	{
-		return -1;//because program states it cant be another thing here, this is here just so program does not yell at me 
+		return -1; //because program states it cant be another thing here, this is here just so program does not yell at me 
 	}
 }
 
